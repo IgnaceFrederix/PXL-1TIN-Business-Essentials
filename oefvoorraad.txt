@@ -1,0 +1,31 @@
+Altijd na boven afronden
+4000 aankooppproducten fiets
+100 kosten per levering
+500 per fiets
+inkoopwaarde per jaar 1 %
+
+wortel(2*4000*100/0.01*500)
+
+
+400
+
+
+4000/400=10*100=1000 euro beselkost
+400/2=200*0.01*500=1000 opslagkost
+
+
+
+10000aankoopprochten
+100 per levering
+15 per lamp
+inkooopwaarde per jaar 5 %
+
+wortel((2*10000*100)/0.05*15)=1633
+
+(10000/1633)*100 = 612.37
+(1633/2)*(0.05*15)=612.37
+
+
+
+
+

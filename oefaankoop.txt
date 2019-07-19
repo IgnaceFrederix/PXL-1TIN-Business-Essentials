@@ -1,0 +1,123 @@
+terugstuurbare verpakking op einde optellen
+
+
+bedrag exclusief 12*14.88+15*19.95+27*4.33=	447.81		116,91			594.72	
+-handelskorting 5				23.89		5,8455			29.74
+= nettoverkoopbedrag 				453.92		111.06			564.98
++aangereken koste/				0		0			0
+bruto verkkopbedrag 				453.92		111.06			564.98
+- korting voor contant 2%			9.08		2.22			11.30
+maatstaf van heffing 				444.84		108.84			553.68
++btw						93.42		6.53			99.95
+te betalen contant				538.26		115.37			653.63
++ficaneele koritng				9.08		2.22			11.30
+=te betalen termijn				547.34		117.59			664.93
+
+
+
+oef1
+bedrag exclusief 		450
+ -handelskorting		-45
+= nettoverkoopbedrag		405
++aangereken koste		10
+bruto verkkopbedrag		415
+- korting voor contant		/
+maatstaf van heffing 		415
++btw				87,15
+te betalen contant		502,15
++ficaneele koritng		/
+=te betalen termijn		502.15
+
+
+oef2
+bedrag exclusief 		2500
+-handelskorting			-75
+= nettoverkoopbedrag		2425
++aangereken koste		/
+bruto verkkopbedrag		2425
+- korting voor contant		-48,5
+maatstaf van heffing		2376,5
++btw				499,065
+te betalen contant		2875,57
++ficaneele koritng		48.50
+=te betalen termijn		2924.07
+
+
+
+oef3
+bedrag exclusief 		3000		100		3100
+-handelskorting			/				
+= nettoverkoopbedrag		3000		100		3100
++aangereken koste		8		0		8
+bruto verkkopbedrag		3008		100		3108
+- korting voor contant		60,16		2		62.16
+maatstaf van heffing		2947,84		105,84		3045.84
++btw				176,87		20.58		197.45
+te betalen contant		3124.71		118.58		3243.29
++ficaneele koritng		60.16		2		62.16
+=te betalen termijn		3184.87		120.85		3305.45
+
+
+
+
+oef4
+bedrag exclusief		2200		1000		3200
+-handelskorting			88		40		128
+= nettoverkoopbedrag		2112		960		3072
++aangereken koste		12		0		12
+bruto verkkopbedrag		2124		960		3084
+- korting voor contant		42.48		19.20		61.68
+maatstaf van heffing		2081.52		940.80		3022.32
++btw				124.89		197.57		322.46
+te betalen contant		2206.41		1138.37		3344.78
++ficaneele koritng		42.48		19.20		61.68
+=te betalen termijn		2248.89		1157.57		3406.46
+
+oef5
+bedrag exclusief		123.6		992		1115.60
+-handelskorting			0		49,6		49.60
+= nettoverkoopbedrag		123.6		942.40		1066
++aangereken koste		7.80		/		7.80
+bruto verkooppbedrag		131.40		942.40		1073.80
+- korting voor contant		2.63		18.85		21.48
+maatstaf van heffing		128.77		923.55		1052.32
++btw				15.45		193.95		209.40
+te betalen contant 		144.22		1117.50		1261.72
++fincieele korting		2.63		18.85		21,48
+= te betalen termijn 		146.85		1136.35		1283,20
+
+
+
+extraoef
+bedrag exlusief			28.00		30.00		20.00		78.00
+-handelskorting			1,4		1,5		1.00		3.90
+= nettoverkoopsbedrag		26.6		28.50		19.00		74.10
++aangerekende koste		20		/		/		20.00
+bruto verkoopbedrag		46,6		28.50		19.00		94.10
+-koritng voor contant		0.93		0.57		0.38		1.88
+maatstaf van heffing		45.67		27.93		18.62		92.22
++btw				2.74		3.35		3.91		10.00
+te betalen contant		48.41		31.28		22.53		102,22
++ficnaieele koritng		0.93		0.57		0.38		1,88	
+= te betalen terlijn		49.34		31.85		22.91		104,1
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
